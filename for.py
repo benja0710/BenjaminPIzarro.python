@@ -75,19 +75,23 @@
 
 # for i in "benja":
 #     print(i)
-
-cont=0
-vocales=0
-nombre=input("deme su nommbre: ")
-for i in nombre:
-    print(i)
-    if i in "aeiouAEIOU":
-        vocales=vocales+1
-    cont=cont+1
-    conso=conso+1
-    print(f"la palabra {nombre} tiene {vocales} vocales")
-    print(f"la cantidad de letras es: {cont}")
-    else:   
-     print("el total de consonantes es: ", conso)
-    # if i=="a" or i== "e" or i=="i" or i=="o" or i=="u":
+# conso=0
+# cont=0
+# vocales=0
+# nombre=input("deme su nommbre: ")
+# for i in nombre:
+#     print(i)
+#     if i in "aeiouAEIOU":
+#         vocales=vocales+1
+#         cont=cont+1
         
+#         print(f"la palabra {nombre} tiene {vocales} vocales")
+#         print(f"la cantidad de letras es: {cont}")
+#     else:  
+#         conso=conso+1 
+#         print("el total de consonantes es: ", conso)
+        
+#         # if i=="a" or i== "e" or i=="i" or i=="o" or i=="u":
+
+
+
